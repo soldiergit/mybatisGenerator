@@ -1,0 +1,2 @@
+# mybatisGenerator
+ubuntu下的mybatis逆向工程
